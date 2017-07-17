@@ -1,7 +1,8 @@
 function saludar(nombre){
 
-console.log("Hola mundo soy: " + nombre + " :)");
+  console.log("Adiós mundo, soy: " + nombre + " :)");
 
 }
 
 saludar("KELY");
+saludar("Luisa Gonzales");
