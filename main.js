@@ -6,3 +6,4 @@ function saludar(nombre){
 
 saludar("KELY");
 saludar("Luisa Gonzales");
+saludar("patty");
